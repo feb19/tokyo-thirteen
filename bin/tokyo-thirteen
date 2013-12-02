@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+'use strict';
+
+var tokyo = require('../lib/tokyo-thirteen');
+tokyo.run();

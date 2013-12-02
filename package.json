@@ -1,0 +1,22 @@
+{
+  "name": "tokyo-thirteen",
+  "version": "0.0.0",
+  "description": "website templates",
+  "main": "lib/tokyo-thirteen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/tokyo-thirteen"
+  },
+  "author": "feb19",
+  "license": "MIT",
+  "bin": {
+    "tokyo-thirteen": "bin/tokyo-thirteen"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+    "clivas": "~0.1.4",
+    "inquirer": "~0.3.5",
+    "shelljs": "~0.2.6"
+  }
+}
